@@ -2,6 +2,8 @@
 
 ## Provides an example of how hardware wallets could be used with the nahmii-sdk
 
+### Instructions
+
 Naviagte to your local copy of the nahmii-sdk repo
 
 `cd nahmii-sdk`
@@ -14,9 +16,13 @@ Move one dir out of the nahmii-sdk dir
 
 `cd ..`
 
-Clone this repo
+Clone and navigate into this repo
 
-`git@github.com:liamaharon/nahmii-sdk-wallet-demo.git`
+`git@github.com:liamaharon/nahmii-sdk-custom-wallet-example.git && cd nahmii-sdk-custom-wallet-example`
+
+Install deps
+
+`npm i`
 
 Connect a LNS to your PC and open the ETH app (make sure browser support is off)
 
