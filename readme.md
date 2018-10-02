@@ -12,6 +12,10 @@ Checkout feature/custom-signer-support in the nahmii-sdk repo
 
 `git checkout feature/customer-signer-support`
 
+Install changed dependencies
+
+`npm i`
+
 Move one dir out of the nahmii-sdk dir
 
 `cd ..`
