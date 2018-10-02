@@ -1,5 +1,7 @@
 # nahmii-sdk wallet proposal example
 
+## Provides an example of how hardware wallets could be used with the nahmii-sdk
+
 Naviagte to your local copy of the nahmii-sdk repo
 
 `cd nahmii-sdk`
